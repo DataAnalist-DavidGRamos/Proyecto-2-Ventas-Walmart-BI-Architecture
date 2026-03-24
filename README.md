@@ -13,8 +13,6 @@ Análisis de eficiencia operativa para Walmart usando lógica multicapa relacion
 * 🚨 **Fricción Inventario**: Ahorro potencial del 15% en Electrónica (picos vs valles).
 * 🏘️ **Mix Ganador**: "Hogar" domina en regiones de baja densidad.
 
-@ Transformar datos Walmart en un resumen ejecutivo que oriente decisiones de pres
-
 
 ## 📊 Datos
 Los datos están en Google Sheets: [https://docs.google.com/spreadsheets/d/1ruhaUG9n1VCUbC-RXhsXp_SO2GCLdbHTn9Lt2RxMkos/edit?usp=drive_link)]
