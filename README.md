@@ -14,7 +14,7 @@ Este proyecto consiste en un análisis detallado de las ventas de Walmart (2010-
 2. **Transformación**: Unión relacional (Primary/Foreign Keys).
 3. **Analítica**: KPIs financieros.
 4. **Presentación**: Dashboard interactivo.
-
+![Dashboard de Walmart](dashboard_P2.png)
 ## 🔬 Hallazgos
   Detectados 6,435 registros sin departamento asignado.
   Identificados 27 registros con ventas nulas o negativas.
