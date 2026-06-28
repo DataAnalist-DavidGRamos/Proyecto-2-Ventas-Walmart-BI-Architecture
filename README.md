@@ -30,3 +30,11 @@ Los datos están en Google Sheets: [https://docs.google.com/spreadsheets/d/1ruha
 
 ## 📝 Descripción
 Mi proyecto consiste en asumir el rol de analista en Walmart, donde la Dirección Comercial necesita un resumen ejecutivo para ajustar presupuestos e inventario. Trabajo con datos de ventas semanales de 2012, que incluyen información de tiendas, departamentos y ventas.
+
+
+
+### AUTOR:
+David Germán Ramos Rodríguez
+[LinkedIn](https://www.linkedin.com/in/david-g-ramos/) | 
+[Sitio Web](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
+
