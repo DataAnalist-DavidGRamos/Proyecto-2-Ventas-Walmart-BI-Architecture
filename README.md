@@ -28,8 +28,6 @@ cuantificados.
 2. **Transformación**: Unión relacional (Primary/Foreign Keys).
 3. **Analítica**: KPIs financieros.
 4. **Presentación**: Dashboard interactivo.
-   
-![Dashboard de Walmart](Dashboar_P2.png)
 
 ## 🔬 Hallazgos
   Detectados 6,435 registros sin departamento asignado.
