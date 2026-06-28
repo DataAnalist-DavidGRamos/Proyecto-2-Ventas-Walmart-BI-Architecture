@@ -29,15 +29,6 @@ cuantificados.
 3. **Analítica**: KPIs financieros.
 4. **Presentación**: Dashboard interactivo.
 
-## 🔬 Hallazgos
-  Detectados 6,435 registros sin departamento asignado.
-  Identificados 27 registros con ventas nulas o negativas.
-  "Data Cleaning" 
-  
-* 🌟 **ROI Superficie**: "Las tiendas de Tipo B son altamente eficientes, pero las Tipo A dominan en volumen total. Las tiendas Tipo C son el punto débil, aportando solo el 10% Tiendas Tipo A son 25% más eficientes que Tipo C.
-* 🚨 **Fricción Inventario**: Ahorro potencial del 15% en Electrónica (picos vs valles).
-* 🏘️ **Mix Ganador**: "Hogar" domina en regiones de baja densidad.
-## Estructura de Datos
 
 | Hoja | Descripción | Tipo |
 |---|---|---|
@@ -55,6 +46,17 @@ cuantificados.
 | Ventas negativas o nulas | 27 registros con ventas nulas detectados |
 | Tamaños en m² = 0 | 0 registros — sin problema |
 | Coeficiente de Variación > 2.0 | Ninguna tienda supera CV = 2.0 — dentro del rango |
+
+
+## 🔬 Hallazgos
+  Detectados 6,435 registros sin departamento asignado.
+  Identificados 27 registros con ventas nulas o negativas.
+  "Data Cleaning" 
+  
+* 🌟 **ROI Superficie**: "Las tiendas de Tipo B son altamente eficientes, pero las Tipo A dominan en volumen total. Las tiendas Tipo C son el punto débil, aportando solo el 10% Tiendas Tipo A son 25% más eficientes que Tipo C.
+* 🚨 **Fricción Inventario**: Ahorro potencial del 15% en Electrónica (picos vs valles).
+* 🏘️ **Mix Ganador**: "Hogar" domina en regiones de baja densidad.
+## Estructura de Datos
 
 ## KPIs Definidos
 
@@ -104,16 +106,16 @@ Despensa y Básicos — KPI1: $679.86/m² | KPI2: 15.23% | KPI3: CV 0.57*
 
 ## Acceso a los Datos
 
-[Ver archivo en Google Sheets](https://docs.google.com/spreadsheets)
+[Ver archivo en Google Sheets]([https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1ruhaUG9n1VCUbC-RXhsXp_SO2GCLdbHTn9Lt2RxMkos/edit?usp=drive_link)
 
 ## Estructura del Repositorio
-
+```text
 📦 Proyecto-2-Ventas-Walmart-BI-Architecture
  ┣ 📂 img
  ┃ ┗ 🖼️ Dashboar_P2.png          → Vista del dashboard ejecutivo interactivo
  ┣ 📊 Ventas_Walmart.pbix         → Archivo Power BI (requiere Power BI Desktop)
  ┣ 📝 README.md                   → Este archivo
-
+```
 ## Cómo Visualizar el Dashboard
 
 1. Descarga el archivo `Ventas_Walmart.pbix` de este repositorio
@@ -121,24 +123,8 @@ Despensa y Básicos — KPI1: $679.86/m² | KPI2: 15.23% | KPI3: CV 0.57*
 3. Usa el filtro **"Departamento"** en la parte superior para explorar
    los KPIs por categoría de producto
 
-## Autor
-
-David Germán Ramos Rodríguez
-[LinkedIn](https://www.linkedin.com/in/david-g-ramos/) |
-[Portfolio](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
-
-Dos cosas que necesitas hacer además de pegar el README
-1. Subir la imagen del dashboard a la carpeta img/
-
-Guarda el screenshot que me compartiste como dashboard_ejecutivo.png y súbela a img/. Luego actualiza la línea del README a:
-markdown
-
-## 📊 Datos
-Los datos están en Google Sheets: [https://docs.google.com/spreadsheets/d/1ruhaUG9n1VCUbC-RXhsXp_SO2GCLdbHTn9Lt2RxMkos/edit?usp=drive_link)]
-
-## 📝 Descripción
+## 📝 Mi rol
 Mi proyecto consiste en asumir el rol de analista en Walmart, donde la Dirección Comercial necesita un resumen ejecutivo para ajustar presupuestos e inventario. Trabajo con datos de ventas semanales de 2012, que incluyen información de tiendas, departamentos y ventas.
-
 
 
 ### AUTOR:
