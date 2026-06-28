@@ -116,12 +116,6 @@ Despensa y Básicos — KPI1: $679.86/m² | KPI2: 15.23% | KPI3: CV 0.57*
  ┣ 📊 Ventas_Walmart.pbix         → Archivo Power BI (requiere Power BI Desktop)
  ┣ 📝 README.md                   → Este archivo
 ```
-## Cómo Visualizar el Dashboard
-
-1. Descarga el archivo `Ventas_Walmart.pbix` de este repositorio
-2. Ábrelo con **Power BI Desktop** (descarga gratuita en microsoft.com)
-3. Usa el filtro **"Departamento"** en la parte superior para explorar
-   los KPIs por categoría de producto
 
 ## 📝 Mi rol
 Mi proyecto consiste en asumir el rol de analista en Walmart, donde la Dirección Comercial necesita un resumen ejecutivo para ajustar presupuestos e inventario. Trabajo con datos de ventas semanales de 2012, que incluyen información de tiendas, departamentos y ventas.
